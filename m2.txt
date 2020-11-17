@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70FD-81F9
+
+ Directory of C:\GitDemo2
+
+17. 11. 2020  06:31    <DIR>          .
+17. 11. 2020  06:31    <DIR>          ..
+17. 11. 2020  05:45               330 m1.txt
+17. 11. 2020  06:31                 0 m2.txt
+               2 File(s)            330 bytes
+               2 Dir(s)  259ÿ704ÿ348ÿ672 bytes free
